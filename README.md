@@ -1,7 +1,9 @@
 # presentations
 Presentations by Joe Woodhouse, Prima Donna Consulting.
 
-This repo contains only presentations, no code. 
+This repository contains only presentations, no code. If viewing on a mobile device you may have to click "View code" to expand the listing and show the presentations. Depending on your device you may not be able to directly view the presentation through your browser but you can always download the PDF. No GitHub login or account required.
+
+This will always contain the most up to date version of the presentations. As older ones are brought up to date they'll be added here.
 
 They are copyright Prima Donna Consulting. You may use them if and only if:
 
